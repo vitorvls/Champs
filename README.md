@@ -1,5 +1,6 @@
 # Champs
-Mobile app from world cup 2022
+
+Aplicativo de acompanhamento da Copa do mundo 2022.
 
 # Status
 
@@ -37,3 +38,8 @@ Para que você possa testar a interface também, disponibilizamos um código QR 
 # Considerções finais
 
 Champs foi criado a partir da integração a API's que informam em tempo real tanto de jogos como noticias da copa do Mundo, assim, criando um APP que proporciona informações para todos os seus usuários, nós da equipe Champs esperamos que vocês gostem do nosso trabalho e que continue acompanhando nossa evolução.
+
+## Criadores
+
+| [<img src="https://user-images.githubusercontent.com/88199918/172503689-e3e2a85a-58de-4078-a3b5-2254c552da50.jpg" width=115><br><sub>Vítor Luís da Silva</sub>](https://github.com/Snj4y) |  [<img src="https://user-images.githubusercontent.com/88199918/172503952-530ca9d2-88a6-423d-b7e4-3d2147a77b4c.png" width=115><br><sub>Leonardo Alexandro</sub>](https://github.com/PunishedGrimm) |  [<img src="https://user-images.githubusercontent.com/88199918/172505353-f2b37e48-b258-40d9-a0a2-e21cc1f5b188.png" width=115><br><sub>Thaís Padilha</sub>](https://github.com/thafp) |
+| :---: | :---: | :---: |
