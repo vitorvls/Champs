@@ -1,6 +1,6 @@
 # Champs
 
-Aplicativo de acompanhamento da Copa do mundo 2022.
+Aplicativo para acompanhamento da Copa do mundo 2022.
 
 # Status
 
@@ -35,7 +35,7 @@ Para que você possa testar a interface também, disponibilizamos um código QR 
 <img src="https://user-images.githubusercontent.com/88199918/172501162-62a314ad-9016-4741-9112-ba663a813e5d.png"/>
 </p>
 
-# Considerções finais
+# Considerações finais
 
 Champs foi criado a partir da integração a API's que informam em tempo real tanto de jogos como noticias da copa do Mundo, assim, criando um APP que proporciona informações para todos os seus usuários, nós da equipe Champs esperamos que vocês gostem do nosso trabalho e que continue acompanhando nossa evolução.
 
