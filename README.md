@@ -26,7 +26,7 @@ Além de acompanhar os acontecimentos dos jogos, o usuário também tem a oportu
 
 # Interface
 
-Nossa interface projetada para melhor aten der as nescessidades do usuário.
+Nossa interface projetada para melhor atender as nescessidades do usuário.
 <p align="center">
 <img src="https://user-images.githubusercontent.com/88199918/172506700-d49d8ba7-1b77-4cba-99ec-7b6afcfef5cb.gif"/>
 </p>
