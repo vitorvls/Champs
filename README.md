@@ -30,7 +30,9 @@ Nossa interface projetada para melhor aten der as nescessidades do usuário.
 <p align="center">
 <img src="https://user-images.githubusercontent.com/88199918/172506700-d49d8ba7-1b77-4cba-99ec-7b6afcfef5cb.gif"/>
 </p>
-
+<p align="center">
+<img src="https://user-images.githubusercontent.com/88199918/172507339-be3feabd-7ca9-4ae9-8ff4-555b144694cc.gif"/>
+</p>
 
 # QR
 
@@ -41,7 +43,7 @@ Para que você possa testar a interface também, disponibilizamos um código QR 
 
 # Considerações finais
 
-Champs foi criado a partir da integração a API's que informam em tempo real tanto de jogos como noticias da copa do Mundo, assim, criando um APP que proporciona informações para todos os seus usuários, nós da equipe Champs esperamos que vocês gostem do nosso trabalho e que continue acompanhando nossa evolução.
+Champs foi criado a partir da integração a API's que informam em tempo real tanto jogos como noticias da copa do mundo, assim, criamos um APP que proporciona informações para todos os seus usuários, nós da equipe Champs esperamos que vocês gostem do nosso trabalho e que continue acompanhando nossa evolução.
 
 ## Criadores
 
