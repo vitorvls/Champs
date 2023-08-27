@@ -47,5 +47,6 @@ Champs foi criado a partir da integração a API's que informam em tempo real ta
 
 ## Criadores
 
-| [<img src="https://user-images.githubusercontent.com/88199918/172503689-e3e2a85a-58de-4078-a3b5-2254c552da50.jpg" width=115><br><sub>Vítor Luís da Silva</sub>](https://github.com/Snj4y) |  [<img src="[https://user-images.githubusercontent.com/88199918/172503952-530ca9d2-88a6-423d-b7e4-3d2147a77b4c.png](https://avatars.githubusercontent.com/u/88199918?v=4)" width=115><br><sub>Leonardo Alexandro</sub>](https://github.com/PunishedGrimm) |  [<img src="https://user-images.githubusercontent.com/88199918/172505353-f2b37e48-b258-40d9-a0a2-e21cc1f5b188.png" width=115><br><sub>Thaís Padilha</sub>](https://github.com/thafp) |
+| [<img src="https://user-images.githubusercontent.com/88199918/172503689-e3e2a85a-58de-4078-a3b5-2254c552da50.jpg" width=115><br><sub>Vítor Luís da Silva</sub>](https://github.com/Snj4y) |  ![image](https://github.com/Snj4y/Champs/assets/88199918/a22b511e-907e-4207-bef2-67f3b8984684)
+ width=115><br><sub>Leonardo Alexandro</sub>](https://github.com/PunishedGrimm) |  [<img src="https://user-images.githubusercontent.com/88199918/172505353-f2b37e48-b258-40d9-a0a2-e21cc1f5b188.png" width=115><br><sub>Thaís Padilha</sub>](https://github.com/thafp) |
 | :---: | :---: | :---: |
