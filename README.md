@@ -48,5 +48,5 @@ Champs foi criado a partir da integração a API's que informam em tempo real ta
 ## Criadores
 
 
-| [<img src="https://user-images.githubusercontent.com/88199918/172503689-e3e2a85a-58de-4078-a3b5-2254c552da50.jpg" width=115><br><sub>Vítor Luís da Silva</sub>](https://github.com/Snj4y) | [<img src="https://github.com/Snj4y/Champs/assets/88199918/3ec81f57-2b3a-4e42-91c7-784e23da9d9e" width=115><br><sub>Leonardo Alexandrro</sub>](https://github.com/punishedgrimm) |  [<img src="https://user-images.githubusercontent.com/88199918/172505353-f2b37e48-b258-40d9-a0a2-e21cc1f5b188.png" width=115><br><sub>Thaís Padilha</sub>](https://github.com/thafp) |
+| [<img src="https://user-images.githubusercontent.com/88199918/172503689-e3e2a85a-58de-4078-a3b5-2254c552da50.jpg" width=115><br><sub>Vítor Luís da Silva</sub>](https://github.com/Snj4y) | [<img src="https://github.com/Snj4y/Champs/assets/88199918/3ec81f57-2b3a-4e42-91c7-784e23da9d9e" width=115><br><sub>Leonardo Alexandro</sub>](https://github.com/punishedgrimm) |  [<img src="https://user-images.githubusercontent.com/88199918/172505353-f2b37e48-b258-40d9-a0a2-e21cc1f5b188.png" width=115><br><sub>Thaís Padilha</sub>](https://github.com/thafp) |
 | :---: | :---: | :---: |
