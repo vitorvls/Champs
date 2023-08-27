@@ -44,9 +44,10 @@ Para que você possa testar a interface também, disponibilizamos um código QR 
 # Considerações finais
 
 Champs foi criado a partir da integração a API's que informam em tempo real tanto jogos como noticias da copa do mundo, assim, criamos um APP que proporciona informações para todos os seus usuários, nós da equipe Champs esperamos que vocês gostem do nosso trabalho e que continue acompanhando nossa evolução.
+![foto](https://github.com/Snj4y/Champs/assets/88199918/b11d2141-0b83-4071-a3fa-4af05ec505ad)
 
 ## Criadores
 
 
-| [<img src="https://user-images.githubusercontent.com/88199918/172503689-e3e2a85a-58de-4078-a3b5-2254c552da50.jpg" width=115><br><sub>Vítor Luís da Silva</sub>](https://github.com/Snj4y) | [<img src="https://user-images.githubusercontent.com/88199918/141878350-9f680640-3cdc-42e9-8e5b-84450a0c4211.gif" width=115><br><sub>Leonardo Alexandro</sub>](https://github.com/punishedgrimm) |  [<img src="https://user-images.githubusercontent.com/88199918/172505353-f2b37e48-b258-40d9-a0a2-e21cc1f5b188.png" width=115><br><sub>Thaís Padilha</sub>](https://github.com/thafp) |
+| [<img src="https://user-images.githubusercontent.com/88199918/172503689-e3e2a85a-58de-4078-a3b5-2254c552da50.jpg" width=115><br><sub>Vítor Luís da Silva</sub>](https://github.com/Snj4y) | [<img src="https://github.com/Snj4y/Champs/assets/88199918/b11d2141-0b83-4071-a3fa-4af05ec505ad" width=115><br><sub>Leonardo Alexandro</sub>](https://github.com/punishedgrimm) |  [<img src="https://user-images.githubusercontent.com/88199918/172505353-f2b37e48-b258-40d9-a0a2-e21cc1f5b188.png" width=115><br><sub>Thaís Padilha</sub>](https://github.com/thafp) |
 | :---: | :---: | :---: |
